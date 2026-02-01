@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name | Software Developer",
-  description: "Full-stack developer specializing in modern web technologies. Portfolio showcasing my projects and skills.",
+  title: "Houssin Saadeh | Software Engineer @ SAP",
+  description: "Software Engineer at SAP specializing in cloud-native microservices, Kubernetes, and DevOps. Building scalable systems that serve millions of users. UC Irvine CS Graduate.",
 };
 
 export default function RootLayout({
